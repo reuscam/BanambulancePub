@@ -1,0 +1,1 @@
+Banambulance bot does its very best to not collect personally identifiable information.  Banambulance bot provides no protection on the information that it does collect, including relationships between discord user IDs and SWGOH accounts.
